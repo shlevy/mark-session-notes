@@ -1,31 +1,31 @@
 * Maxim                                                               :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-06 Wed>
   :PROPERTIES:
   :DRILL_CARD_TYPE: hide1cloze
   :ID:       d52ed8a9-dbe2-4f7f-967a-93af8df82bb6
-  :DRILL_LAST_INTERVAL: 4.0
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 2
+  :DRILL_LAST_INTERVAL: 10.352
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 3
   :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 3.0
-  :DRILL_EASE: 2.5
-  :DRILL_LAST_QUALITY: 4
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 12:16]
+  :DRILL_AVERAGE_QUALITY: 3.667
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:16]
   :END:
 [Universal properties] are a category-theoretical way to formally capture the mathematical intuition that [use determines meaning].
 * Universal property                                                  :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-07 Thu>
   :PROPERTIES:
   :DRILL_CARD_TYPE: twosided
   :ID:       7694695a-a7fb-4a51-8b5e-8840a2bd457d
-  :DRILL_LAST_INTERVAL: 4.14
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 11.0911
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.6
+  :DRILL_EASE: 2.7
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 12:14]
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:49]
   :END:
 ** Name
 Categorical product
@@ -38,63 +38,63 @@ Categorical product
 ?_3: π_2
 ?_4: ⟨γ_{1}, γ_{2}⟩
 * Exercise                                                            :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-07 Thu>
   :PROPERTIES:
   :ID:       665193aa-2be4-44f0-b0bc-07af8b3a4ae1
-  :DRILL_LAST_INTERVAL: 4.14
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 11.0911
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.6
+  :DRILL_EASE: 2.7
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 12:14]
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:16]
   :END:
 Show that the normal cartesian product of sets is a categorical product in *Sets*
 ** Show it
 * Exercise                                                            :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-06 Wed>
   :PROPERTIES:
   :ID:       4caf068b-8cef-4f07-b176-4579444a5e7d
-  :DRILL_LAST_INTERVAL: 4.0
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 10.0
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 4.0
   :DRILL_EASE: 2.5
   :DRILL_LAST_QUALITY: 4
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 11:26]
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:42]
   :END:
 Show that a product category (of small categories) is a categorical product in *Cat*
 ** Show it
 * Informal definition                                                 :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-06 Wed>
   :PROPERTIES:
   :DRILL_CARD_TYPE: hide1cloze
   :ID:       b87a0d80-f684-4d67-8f8e-d0315dcc3701
-  :DRILL_LAST_INTERVAL: 4.0
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 10.0
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 4.0
   :DRILL_EASE: 2.5
   :DRILL_LAST_QUALITY: 4
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 09:54]
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:37]
   :END:
 [P has some positive {resp., negative} universal property ϕ] whenever [ϕ(P) & (∀ Q, ϕ(Q) → ∃! f : Q → P {resp., P → Q}, diagram with f commutes].
 * Universal property                                                  :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-05 Tue>
   :PROPERTIES:
   :DRILL_CARD_TYPE: twosided
   :ID:       2dbfbb53-c375-412d-a8af-0dcf7d36e016
-  :DRILL_LAST_INTERVAL: 3.86
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 9.43
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 3.0
-  :DRILL_EASE: 2.36
-  :DRILL_LAST_QUALITY: 3
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 11:15]
+  :DRILL_AVERAGE_QUALITY: 4.0
+  :DRILL_EASE: 2.46
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:07]
   :END:
 ** Name
 Categorical coproduct
@@ -107,155 +107,155 @@ Categorical coproduct
 ?_3: i_2
 ?_4: [γ_{1}, γ_{2}]
 * Exercise                                                            :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-06 Wed>
   :PROPERTIES:
   :ID:       788c61f8-8738-45b4-94e4-655ce5a2674a
-  :DRILL_LAST_INTERVAL: 4.0
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 10.352
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 4.0
-  :DRILL_EASE: 2.5
-  :DRILL_LAST_QUALITY: 4
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 08:38]
+  :DRILL_AVERAGE_QUALITY: 4.5
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:15]
   :END:
 Show that the disjoint union of sets is a categorical coproduct in *Sets*
 ** Show it
 * Argument sketch                                                     :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-05 Tue>
   :PROPERTIES:
   :ID:       34525e37-203b-4120-bf97-d7fb69bef771
-  :DRILL_LAST_INTERVAL: 3.86
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 8.9861
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 3.0
-  :DRILL_EASE: 2.36
+  :DRILL_EASE: 2.22
   :DRILL_LAST_QUALITY: 3
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 08:58]
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 13:16]
   :END:
 Convince yourself that any two objects with the same universal property must be uniquely isomorphic, and prove it for the following examples
 ** Product
 ** Coproduct
 ** Exponential
 * Slogan                                                              :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-07 Thu>
   :PROPERTIES:
   :DRILL_CARD_TYPE: hide1cloze
   :ID:       1bb418dc-9db8-4484-875d-227e6be2210f
-  :DRILL_LAST_INTERVAL: 4.14
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 11.0911
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.6
+  :DRILL_EASE: 2.7
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 11:17]
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:42]
   :END:
 [Universal properties] are the [mitochondria] of category theory.
 * Property                                                            :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-06 Wed>
   :PROPERTIES:
   :ID:       9c607647-4060-42ab-87a5-6bc1a88eca5b
-  :DRILL_LAST_INTERVAL: 4.0
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 9.648
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 4.0
-  :DRILL_EASE: 2.5
-  :DRILL_LAST_QUALITY: 4
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 08:27]
+  :DRILL_AVERAGE_QUALITY: 3.5
+  :DRILL_EASE: 2.36
+  :DRILL_LAST_QUALITY: 3
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:33]
   :END:
 Prove categorical products associative (including 'parenthesis-free')
 ** Prove it
 * Property                                                            :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-07 Thu>
   :PROPERTIES:
   :ID:       d1e07f81-a3de-4b34-8310-67e421d7e12c
-  :DRILL_LAST_INTERVAL: 4.14
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 10.7143
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_AVERAGE_QUALITY: 4.5
   :DRILL_EASE: 2.6
-  :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 12:14]
+  :DRILL_LAST_QUALITY: 4
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:11]
   :END:
 Prove categorical products commutative
 ** Prove it
 * Property                                                            :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-05 Tue>
   :PROPERTIES:
   :ID:       db99d30d-6d71-4e1b-96ea-8ef2033fc5ef
-  :DRILL_LAST_INTERVAL: 3.86
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 9.3103
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 3.0
+  :DRILL_AVERAGE_QUALITY: 3.5
   :DRILL_EASE: 2.36
-  :DRILL_LAST_QUALITY: 3
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 12:02]
+  :DRILL_LAST_QUALITY: 4
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:49]
   :END:
 Prove categorical coproducts associative (including 'parenthesis-free')
 ** Prove it
 * Property                                                            :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-06 Wed>
   :PROPERTIES:
   :ID:       6de269e0-7fed-4604-8c9e-03f3d8cab361
-  :DRILL_LAST_INTERVAL: 4.0
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 10.352
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 4.0
-  :DRILL_EASE: 2.5
-  :DRILL_LAST_QUALITY: 4
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 11:17]
+  :DRILL_AVERAGE_QUALITY: 4.5
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:39]
   :END:
 Prove categorical coproducts commutative
 ** Prove it
 * Property                                                            :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-06 Wed>
   :PROPERTIES:
   :ID:       f308debb-7221-499e-9026-d65ee9ff77a6
-  :DRILL_LAST_INTERVAL: 4.0
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 10.352
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 4.0
-  :DRILL_EASE: 2.5
-  :DRILL_LAST_QUALITY: 4
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 12:16]
+  :DRILL_AVERAGE_QUALITY: 4.5
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:51]
   :END:
 Prove that the terminal object, if any, is the unit of the categorical product
 ** Prove it
 * Property                                                            :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-05 Tue>
   :PROPERTIES:
   :ID:       343b64ab-2658-4ea5-be64-53f015ab81d3
-  :DRILL_LAST_INTERVAL: 3.86
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 9.1096
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 3.0
+  :DRILL_AVERAGE_QUALITY: 3.5
   :DRILL_EASE: 2.36
-  :DRILL_LAST_QUALITY: 3
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 12:13]
+  :DRILL_LAST_QUALITY: 4
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:21]
   :END:
 Prove that the initial object, if any, is the unit of the categorical coproduct
 ** Prove it
 * Universal property                                                  :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-07 Thu>
   :PROPERTIES:
   :DRILL_CARD_TYPE: twosided
   :ID:       73a84b1b-5a30-4b3b-9126-693a557f686b
-  :DRILL_LAST_INTERVAL: 4.14
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 11.0911
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.6
+  :DRILL_EASE: 2.7
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 11:17]
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:50]
   :END:
 ** Name
 Initial object
@@ -265,18 +265,18 @@ Initial object
 ** Entity names
 ?_1: 0
 * Universal property                                                  :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-07 Thu>
   :PROPERTIES:
   :DRILL_CARD_TYPE: twosided
   :ID:       ebbd1dd8-10dd-4eb2-936e-d04101e09822
-  :DRILL_LAST_INTERVAL: 4.14
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 10.7143
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_AVERAGE_QUALITY: 4.5
   :DRILL_EASE: 2.6
-  :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 12:16]
+  :DRILL_LAST_QUALITY: 4
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:37]
   :END:
 ** Name
 Terminal object
@@ -287,48 +287,48 @@ Terminal object
 ?_1: 1
 ?_2: !_A
 * Definition                                                          :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-07 Thu>
   :PROPERTIES:
   :DRILL_CARD_TYPE: hide1cloze
   :ID:       97f8a594-a9d7-4e70-af11-7729d5cb1291
-  :DRILL_LAST_INTERVAL: 4.14
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 11.0911
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
   :DRILL_AVERAGE_QUALITY: 5.0
-  :DRILL_EASE: 2.6
+  :DRILL_EASE: 2.7
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 12:14]
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:37]
   :END:
 [A thin category] is [a category where there is at most one arrow between any A and B].
 * Instance                                                            :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-06 Wed>
   :PROPERTIES:
   :DRILL_CARD_TYPE: hide1cloze
   :ID:       4c160be0-a81a-499c-8153-e547ebe7decc
-  :DRILL_LAST_INTERVAL: 4.0
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_LAST_INTERVAL: 10.352
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 2
   :DRILL_FAILURE_COUNT: 0
-  :DRILL_AVERAGE_QUALITY: 4.0
-  :DRILL_EASE: 2.5
-  :DRILL_LAST_QUALITY: 4
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 11:26]
+  :DRILL_AVERAGE_QUALITY: 4.5
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:49]
   :END:
 The [greatest lower bound of two elements of a preorder] is an instance of [the categorical product, in the category defined by the preorder].
 * Universal property                                                  :drill:
-  SCHEDULED: <2019-02-24 Sun>
+  SCHEDULED: <2019-03-07 Thu>
   :PROPERTIES:
   :DRILL_CARD_TYPE: twosided
   :ID:       a706696b-5a4f-4ed9-9907-33cfc625638a
-  :DRILL_LAST_INTERVAL: 4.14
-  :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 3
+  :DRILL_LAST_INTERVAL: 11.0911
+  :DRILL_REPEATS_SINCE_FAIL: 3
+  :DRILL_TOTAL_REPEATS: 4
   :DRILL_FAILURE_COUNT: 2
-  :DRILL_AVERAGE_QUALITY: 3.0
-  :DRILL_EASE: 2.6
+  :DRILL_AVERAGE_QUALITY: 3.5
+  :DRILL_EASE: 2.7
   :DRILL_LAST_QUALITY: 5
-  :DRILL_LAST_REVIEWED: [2019-02-20 Wed 12:18]
+  :DRILL_LAST_REVIEWED: [2019-02-24 Sun 12:37]
   :END:
 ** Name
 Categorical exponent

@@ -1,0 +1,80 @@
+* Definition                                                          :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide1cloze
+  :END:
+A [first order theory] is [a theory built on a formal logical system with quantification over non-logical objects and variables].
+* Formalization                                                       :drill:
+In a first order formalization of category theory, we can formalize universal properties by [specifying ϕ as a first-order formula in the relevant logic].
+* Framework                                                           :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: twosided
+  :END:
+Given the name of a framework or what it consists in, provide the other.
+** Name
+The Brouwer-Heyting-Kolmogorov Interpretation (BHK interpretation)
+** Constituents
++ A proof of P ∧ Q is a pair (a, b) if a is a proof of P and b is a proof of Q
++ A proof of P ∨ Q is a pair (a, b) where a is 0 and b is a proof of P, or a is 1 and b is a proof of Q
++ A proof of P → Q is a function that converts a proof of P into a proof of Q
++ A proof of ∃ x ∈ S : ϕ(x) is a pair (a, b) where a is an element of S and b is a proof of ϕ(a)
++ A proof of ∀ x ∈ S : ϕ(x) is a function that converts an element a of S into a proof of ϕ(a)
++ The formula ¬ P is defined as P → ⊥ and interpreted accordingly
++ There is no proof of ⊥
+* Intuition                                                           :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide1cloze
+  :END:
+[Universal properties] can be thought of as a formalization of the notion of [implementation-independent structure].
+* Universal property                                                  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: twosided
+  :END:
+** Name
+Natural number object
+** Diagram
+#+ATTR_ORG: :width 500
+[[./natural-number-object.jpg]]
+** Entity names
+?_1: N
+?_2: succ
+?_3: z
+?_4: rec_N
+* Definition                                                          :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide1cloze
+  :END:
+A [global element of an object C] is [an arrow from the terminal object to C].
+* Concept                                                             :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide1cloze
+  :END:
+Informally, a [tensor product/monoidal product] is [a binary operation on objects, typically denoted ⊗, that is associative and has an identity I, along with some coherence conditions].
+* Technique                                                           :drill:
+To define a concept in an abstract category, we can often start by [looking at the definition over sets, expressing it in terms of (commutative) compositional diagrams, and dropping the set specifics]
+** Show it for categorical monoids.
+* Concept                                                             :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide1cloze
+  :END:
+[The microcosm principle] states that [to define certain structures internal to a category, the category must have a "categorified" version of that structure].
+** Why is it called that?
+"As above, so below"
+** Give some examples
+Need a monoidal category to define monoids, need a symmetric monoidal category to define commutative monoids.
+* Definition                                                          :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide1cloze
+  :END:
+To [internalize] some structure is to [transport the definition of that structure over sets/some other familiar category into one over an abstract category that itself has "enough structure"].
+* Categorical interpretation                                          :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide1cloze
+  :END:
+[The no-cloning theorem] can be interpreted as proving that [⊗ over Hilbert spaces is not a categorical product]
+** How so?
+If Δ : A ⊗ A is a natural transformation ("natural diagonal"), then ⊗ is a categorical product. Lack of this means there's no generic way to "copy" A for all A.
+* Definition                                                          :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide1cloze
+  :END:
+A [2-cell] is a [morphism between two arrows of the same source and target].
